@@ -33,4 +33,3 @@ visit: https://example.com/page
 
 تموم! 🚀
 
-download: https://sv2.downloadyarbot.ir/IDM/ترمیمیی.pdf
